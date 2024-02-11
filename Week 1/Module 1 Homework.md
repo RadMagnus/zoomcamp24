@@ -1,3 +1,7 @@
+So I have not saved the SQL Code here, as i was testing in pgAdmin directly, i'll see if i can recover the SQL-code later.
+
+
+
 Module 1 Homework
 Docker & SQL
 
